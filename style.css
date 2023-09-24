@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+    color: #1e836c;
+    font-weight: 700;
+    font-size: 250%;
+}
+
+h2 {
+    color: #45b29a;
+}
+
+p {
+    font-size: larger;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 0.5;
+}
+
+
+#hero {
+    background-color: #e0ebe8;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: black;
+    font-weight: 300;
+
+}
+
+.logo {
+    width: 25px;
+}
+
+.name {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.name h1 {
+    font-family: 'Freehand', cursive;
+    font-weight: 500;
+    color: #1e836c;
+    font-size: 40px;
+}
+
+.name p {
+    font-weight: bold;
+
+}
+
+.land {
+    padding-left: 25px;
+    padding-top: 100px;
+}
+
+.cloud {
+    padding-bottom: 300px;
+    padding-left: 200px;
+}
+
+#body {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.main p {
+    padding-left: 25%;
+    padding-right: 25%;
+    line-height: normal;
+}
+
+.main2 {
+    margin-top: 150px;
+    justify-content: center;
+}
+
+.main2 p {
+    /* padding-left: 10%;
+  padding-right: 20%; */
+    line-height: normal;
+    text-align: justify;
+}
+
+.left {
+    float: left;
+
+}
+
+.right {
+    float: right;
+
+}
+
+.right>.logo1 {
+    margin-right: 400px;
+}
+
+.logo1 {
+    width: 45px;
+    margin-left: 400px;
+
+}
+
+.left2 {
+    padding-left: 35%;
+    padding-right: 30%;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.right2 {
+    padding-left: 25%;
+    padding-right: 40%;
+    text-align: left;
+}
+
+
+.main3 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.main3 p {
+    padding-left: 25%;
+    padding-right: 25%;
+    line-height: normal;
+}
+
+.button {
+    background-color: #45b29a;
+    color: #1e836c;
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #e0ebe8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #45b29a;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.footer p {
+    padding-top: 20px;
+}
